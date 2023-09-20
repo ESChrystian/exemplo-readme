@@ -57,5 +57,5 @@ Caso o seu projeto tenha contribuidores, é bacana adicionar eles no README.
 >Desenvolvedores:
 >(https://github.com/ESChrystian Chrystian Almeida Silva)
 
-## fonte : Aluara e Rocketseat.
+## fonte : Alura e Rocketseat.
 
